@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Expo Branch Testing",
+    "description": "Testing Expo Branch integration",
+    "slug": "expo-branch-testing",
+    "scheme": "brtest",
+    "sdkVersion": "29.0.0",
+    "version": "66.66.66",
+    "android": {
+      "package": "expo.branch.test",
+      "config": {
+        "branch": {
+          "apiKey": ""
+        }
+      }
+    }
+  }
+}
